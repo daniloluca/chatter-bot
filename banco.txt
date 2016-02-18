@@ -1,0 +1,62 @@
+<category>
+	<pattern>erro</pattern>
+	<template>Desculpe, não entendi.</template>
+	<template>Pode repetir?</template>
+	<template>Desculpe, não sei nada sobre isso.</template>
+</category>
+<category>
+	<pattern>qual nome</pattern>
+	<template>Meu nome é LEIA</template>
+	<template>LEIA</template>
+	<template>Eu sou a LEIA</template>
+</category>
+<category>
+	<pattern>obrigado</pattern>
+	<template>De nada.</template>
+	<template>Disponha.</template>
+	<template>Não a de que.</template>
+</category>
+<category>
+	<pattern>voce inteligente</pattern>
+	<template>Ainda nao, mas quem sabe um dia...</template>
+	<template>Talvez...</template>
+	<template>Oque voce acha?</template>
+</category>
+<category>
+	<pattern>bem tudo</pattern>
+	<template>Muito bem!</template>
+	<template>Bem!</template>
+	<template>Mais ou menos...</template>
+</category>
+<category>
+	<pattern>por que</pattern>
+	<template>por que oque?</template>
+	<template>como assim por que?</template>
+	<template>por que?</template>
+</category>
+<category>
+	<pattern>qual serie</pattern>
+	<template>The big bang Theory</template>
+	<template>Game of Thrones</template>
+</category>
+<category>
+	<pattern>qual valor pi</pattern>
+	<template>PI é igual a 3,14159265358979...</template>
+	<template>PI = 3,14159265358979...</template>
+</category>
+<category>
+	<pattern>o que pi</pattern>
+	<template>PI é a razão entre o diamentro e o perimetro de uma circunferência.</template>
+</category>
+<category>
+	<pattern>qual posição numero fibonacci</pattern>
+	<template>fibonacci</template>
+</category>
+<category>
+	<pattern>qual fibonacci</pattern>
+	<template>A Fequencia Fibonacci é 0, 1, 1, 2, 3, 5, 8, 13, 21, 34,...</template>
+</category>
+<category>
+	<pattern>quem eu</pattern>
+	<template>Se é o bixao memo!</template>
+</category>

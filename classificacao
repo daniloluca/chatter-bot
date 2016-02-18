@@ -1,0 +1,15 @@
+qual:tipo,interrogativa
+como:tipo,interrogativa
+quem:tipo,interrogativa
+isso mesmo:tipo,afirmativa
+voce:referencia,LEIA
+seu:referencia,LEIA
+meu:referencia,pessoa
+é:tempo,presente
+foi:tempo,passado
+sera:tempo,futuro
+nome:sentido,null
+idade:sentido,null
+leia:nome,LEIA
+
+backup
